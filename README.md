@@ -1,11 +1,12 @@
-Bootstrap-Style
-===============
+Design-Lab for CI
+=================
 
-Customized Bootstrap Style
+__Logos__
 
-Customizer (currently aweful style...) - based on:
-http://getbootstrap.com/customize/
+Contains our primary Logos.
 
-Live-Customizer based on:
+__Bootstrap__
+
+Contains our customized Bootstrap Style, based on Live-Customizer:
 http://bootstrap-live-customizer.com/
 
